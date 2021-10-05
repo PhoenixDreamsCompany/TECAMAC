@@ -1,8 +1,6 @@
 
 
-*** NACIONALES ***
-#EXTINF:-1  group-title="MI PROGRAMACIÓN",Phoenix´DreamsTV |  ONCE NIÑOS (CLASES)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=3315&format=HLSAD&f=.m3u8
+*.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=3315&format=HLSAD&f=.m3u8
 
 #EXTINF:-1  group-title="MI PROGRAMACIÓN",Phoenix´DreamsTV |  AZTECA UNO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=7&format=HLSAD&f=.m3u8
